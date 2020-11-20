@@ -167,9 +167,8 @@ class Links extends Component {
 	render() {
 		return (
 			<div className="links">
-				<a href="https://github.com/shrimpza/aurial">
-					<i className="github icon"></i>
-					<span>Aurial on GitHub</span>
+				<a href="https://music.catheu.tech/">
+					<span>🔫 Settings</span>
 				</a>
 			</div>
 		);
