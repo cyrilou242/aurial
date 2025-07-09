@@ -6,7 +6,7 @@ import App from './jsx/app'
 * Application bootstrap
 */
 const subsonic = new Subsonic(
-	localStorage.getItem('url') || 'https://music.catheu.tech/',
+	localStorage.getItem('url') || 'https://grumpy-cat.pikapod.net/',
 	localStorage.getItem('username') || '',
 	localStorage.getItem('token') || '',
 	localStorage.getItem('salt') || '',
